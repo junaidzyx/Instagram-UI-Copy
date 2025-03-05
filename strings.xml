@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Instagram Clone</string>
+    <string name="instagram">Instagram</string>
+    <string name="homebutton">HomeButton</string>
+    <string name="searchbutton">searchbutton</string>
+    <string name="postbutton">postbutton</string>
+    <string name="reelbutton">reelbutton</string>
+    <string name="profilebutton">profilebutton</string>
+    <string name="directmessage">directmessage</string>
+    <string name="profilestory">profilestory</string>
+    <string name="post_description">image posted by user 2</string>
+    <string name="like_button_for_post">like button for post</string>
+    <string name="comment_button_for_post">comment button for post</string>
+    <string name="share_button_for_post">share button for post</string>
+    <string name="save_button_for_post">save button for post</string>
+    <string name="user_profile_2">User Profile 2</string>
+</resources>
